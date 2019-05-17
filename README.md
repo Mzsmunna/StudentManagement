@@ -7,4 +7,4 @@ Microsoft dataset has been used as database. Which is integrated along with the 
 
 I developed it with Visual Studio 2017 along with 4.7 .NET VERSION. There might be a warning for lower version of .NET
 
-To tun this on your PC make sure you are running windows OS and visual stuio 2013 or higher is installed and .NET version is 4.5 or higher then that. Then there will be no issue running this on your PC.
+To run this on your PC make sure you are running windows OS and visual stuio 2013 or higher is installed and .NET version is 4.5 or higher then that. Then there will be no issue running this on your PC.
